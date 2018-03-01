@@ -21,6 +21,7 @@ end)
 --=====USED SCUBA GEAR======--
 RegisterServerEvent('esx_scubashop:giveLoot')
 AddEventHandler('esx_scubashop:giveLoot', function(itemName, price)
+	local xPlayer = ESX.GetPlayerFromId(source)
 	xPlayer.addInventoryItem("usedscuba", 1)
 end)
 
