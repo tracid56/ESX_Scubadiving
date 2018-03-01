@@ -1,4 +1,4 @@
-# ESX_Scubadiving
+# ESX_Scubagear
 Scuba gear rental and assembly for es_extended
 
 Yesterday I saw some scubadiving release on ESX-org missing all the necessary features, so here you go.
