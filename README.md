@@ -1,8 +1,8 @@
 # ESX_Scubadiving
 Scuba gear rental and assembly for es_extended
 
-Yesterday I saw some scubadiving release on ESX-org missing all the necessary features, so here you go.
-This script is older than time itself. 
+Yesterday I saw some scubadiving release on ESX-org missing some of necessary features, so here you go.
+This script is older than time itself.
 
 Features:
 1. Scubashop in paleto
